@@ -1,3 +1,3 @@
 requires 'perl' => '5.008';
 requires 'Carp';
-requires 'Data::RingBuffer';
+requires 'Data::RingBuffer' => '0.02';

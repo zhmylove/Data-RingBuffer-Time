@@ -39,7 +39,7 @@ my %WriteMakefileArgs = (
     },
     PREREQ_PM => {
         'Carp'          => '0',
-        'Data::RingBuffer'      => '0',
+        'Data::RingBuffer'      => '0.02',
     },
     test => {TESTS => "t/*.t"},
     dist  => {
